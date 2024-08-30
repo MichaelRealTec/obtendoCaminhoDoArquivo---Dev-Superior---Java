@@ -17,7 +17,7 @@ public class Program {
 		// Acessar somente o caminho despresando o nome do arquivo
 		// System.out.println("getName: " + path.getName());
 		System.out.println("getParent: " + path.getParent());
-		
+		System.out.println("getPath: " + path.getPath());
 		
 		
 		/*
